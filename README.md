@@ -1,0 +1,2 @@
+# discord
+copies discord link
